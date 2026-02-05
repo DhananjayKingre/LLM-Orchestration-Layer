@@ -236,7 +236,7 @@ pytest tests/
 
 ---
 
-## License
+## Git
 
-MIT License
+https://github.com/DhananjayKingre/LLM-Orchestration-Layer
 
